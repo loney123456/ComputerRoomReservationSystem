@@ -1,0 +1,4 @@
+weekday:1 interval:2 stuId:1 stuName:张三 roomId:3 status:-1
+weekday:2 interval:2 stuId:1 stuName:张三 roomId:3 status:0
+weekday:3 interval:1 stuId:2 stuName:李四 roomId:2 status:2
+weekday:2 interval:2 stuId:3 stuName:王五 roomId:2 status:2
